@@ -28,7 +28,14 @@ void CWCAMDlg::DoDataExchange(CDataExchange* pDX)
 
 
 BEGIN_MESSAGE_MAP(CWCAMDlg, CDialog)
+	ON_BN_CLICKED(IDC_BUTTON_SIDE2, &CWCAMDlg::OnBnClickedButtonSide2)
 END_MESSAGE_MAP()
 
 
 // CWCAMDlg 消息处理程序
+
+
+void CWCAMDlg::OnBnClickedButtonSide2()
+{
+	// TODO: 在此添加控件通知处理程序代码
+}
