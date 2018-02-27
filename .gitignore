@@ -1,5 +1,6 @@
-Debug/*
+Debug\*
 APPTEMPLATE/Debug/*
 3DCam/Debug/*
 3DCam/3DCam.sdf
 *.sdf
+*.obj
